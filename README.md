@@ -83,7 +83,6 @@ Awesome githuber
  [![](https://leetcode-badge.haozibi.dev/v1cn/elihill.svg)](https://leetcode.cn/u/elihill/) [![](https://leetcode-badge.haozibi.dev/v1cn/ranking/elihill.svg)](https://leetcode.cn/u/elihill/) [![](https://leetcode-badge.haozibi.dev/v1cn/solved/elihill.svg)](https://leetcode.cn/u/elihill/) [![](https://leetcode-badge.haozibi.dev/v1cn/solved-rate/elihill.svg)](hhttps://leetcode.cn/u/elihill/) [![](https://leetcode-badge.haozibi.dev/v1cn/accepted/elihill.svg)](https://leetcode.cn/u/elihill/) [![](https://leetcode-badge.haozibi.dev/v1cn/accepted-rate/elihill.svg)](https://leetcode.cn/u/elihill/)
 
 ![](https://leetcode-badge.haozibi.dev/v1cn/chart/submission-calendar/elihill.svg?type=past-year&color=green)
-
 ![](https://leetcode-badge.haozibi.dev/v1cn/card/question-process/elihill.svg)
 <!--![](https://leetcode-badge.haozibi.dev/v1cn/card/contest-ranking/elihill.svg)-->
 
