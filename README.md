@@ -41,9 +41,6 @@ Awesome githuber
 - https://github.com/spywhere/spywhere
 -->
 
-<h1 align="center">
-  Hey,Everyone!!!!
-</h1>
 
 <div align="center">
     <a href="https://hu245334.github.io/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
@@ -72,18 +69,22 @@ Awesome githuber
 
 
 
-## 🛠 My Code
-
-
-<div align="center">
+## My Stats : 😁
 
 ![Hu's GitHub stats](https://github-readme-stats.vercel.app/api?username=hu245334)
 
+## My Code : 😅
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hu245334&repo=ECT)](https://github.com/hu245334/ECT)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hu245334)
+## LeetCode : 🤕
+ [![](https://leetcode-badge.haozibi.dev/v1cn/elihill.svg)](https://leetcode.cn/u/elihill/) [![](https://leetcode-badge.haozibi.dev/v1cn/ranking/elihill.svg)](https://leetcode.cn/u/elihill/) [![](https://leetcode-badge.haozibi.dev/v1cn/solved/elihill.svg)](https://leetcode.cn/u/elihill/) [![](https://leetcode-badge.haozibi.dev/v1cn/solved-rate/elihill.svg)](hhttps://leetcode.cn/u/elihill/) [![](https://leetcode-badge.haozibi.dev/v1cn/accepted/elihill.svg)](https://leetcode.cn/u/elihill/) [![](https://leetcode-badge.haozibi.dev/v1cn/accepted-rate/elihill.svg)](https://leetcode.cn/u/elihill/)
 
-</div>
+![](https://leetcode-badge.haozibi.dev/v1cn/chart/submission-calendar/elihill.svg?type=past-year&color=green)
+
+![](https://leetcode-badge.haozibi.dev/v1cn/card/question-process/elihill.svg)
+<!--![](https://leetcode-badge.haozibi.dev/v1cn/card/contest-ranking/elihill.svg)-->
+
 
 <!--## 🏆 Github Profile Trophy-->
 
