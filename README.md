@@ -78,6 +78,7 @@ Awesome githuber
 ## My Code : 😅
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hu245334&repo=ECT)](https://github.com/hu245334/ECT)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hu245334&repo=hu245334.github.io)](https://github.com/hu245334/hu245334.github.io)
 
 ## LeetCode : 🤕
  [![](https://leetcode-badge.haozibi.dev/v1cn/elihill.svg)](https://leetcode.cn/u/elihill/) [![](https://leetcode-badge.haozibi.dev/v1cn/ranking/elihill.svg)](https://leetcode.cn/u/elihill/) [![](https://leetcode-badge.haozibi.dev/v1cn/solved/elihill.svg)](https://leetcode.cn/u/elihill/) [![](https://leetcode-badge.haozibi.dev/v1cn/solved-rate/elihill.svg)](hhttps://leetcode.cn/u/elihill/) [![](https://leetcode-badge.haozibi.dev/v1cn/accepted/elihill.svg)](https://leetcode.cn/u/elihill/) [![](https://leetcode-badge.haozibi.dev/v1cn/accepted-rate/elihill.svg)](https://leetcode.cn/u/elihill/)
