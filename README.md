@@ -49,7 +49,7 @@ Awesome githuber
     <!--<a href="https://twitter.com/EliHill/"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;-->
     <a href="https://www.youtube.com/channel/UCl-Lhkp5lHiUaBeRnA5ePpg"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
     <!--<a href="https://"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;-->
-    <a href="https://space.bilibili.com/448488855/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
+    <a href="https://space.bilibili.com/95080848/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
     <!--<a href="https://blog.csdn.net/weixin_50915462/"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;-->
     <!--<a href="https://www.zhihu.com/people/sunguoqi/"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;-->
     <!-- visitor statistics logo 访问量统计徽标 -->
@@ -97,12 +97,15 @@ Awesome githuber
 
 ## 🧐 But I'm learning Java now!!!!
 
-```Java
-public class Main {
-    public static void main(String[] args) {
-        System.out.println("Hello Everyone!!!");
-    }
-}
-```
+核心基础：Java基础→==MySQL==→JDBC→JavaWeb
+
+微服务核心：Maven→Gradle→Spring6→SpringMVC→MyBatis→MyBatisPlus→SSM→Redis7→SpringBoot2→SpringCloud
+
+微服务生态：Git→Docker→Elasticsearch→ZooKeeper→Nginx→SpringSecurity→ActiveMQ→RabbitMQ→RocketMQ→K8S→MySQL面试题→大厂面试题第2季→大厂面试题第3季
+
+项目实战：尚筹网→云尚办公→谷粒学苑→尚医通→硅谷课堂→尚融宝→谷粒商城(大型重磅) 
+
+**Now, My progress :** MySQL--P91
+
 
 ![](https://raw.githubusercontent.com/younger-1/younger-1/output/github-contribution-grid-snake.svg)
