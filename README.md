@@ -79,33 +79,21 @@ Awesome githuber
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hu245334&repo=ECT)](https://github.com/hu245334/ECT)
 
-## LeetCode : 🤕
+## ACWing and Lanqiao Cup : 🤕
 
- [![](https://leetcode-badge.haozibi.dev/v1cn/elihill.svg)](https://leetcode.cn/u/elihill/) [![](https://leetcode-badge.haozibi.dev/v1cn/ranking/elihill.svg)](https://leetcode.cn/u/elihill/) [![](https://leetcode-badge.haozibi.dev/v1cn/solved/elihill.svg)](https://leetcode.cn/u/elihill/) [![](https://leetcode-badge.haozibi.dev/v1cn/solved-rate/elihill.svg)](hhttps://leetcode.cn/u/elihill/) [![](https://leetcode-badge.haozibi.dev/v1cn/accepted/elihill.svg)](https://leetcode.cn/u/elihill/) [![](https://leetcode-badge.haozibi.dev/v1cn/accepted-rate/elihill.svg)](https://leetcode.cn/u/elihill/)
- 
-![](https://leetcode-badge.haozibi.dev/v1cn/chart/submission-calendar/elihill.svg?type=past-year&color=green)
+Donot code the LeetCode!!!
 
-![](https://leetcode-badge.haozibi.dev/v1cn/card/question-process/elihill.svg?lang=ch)
+## 🧐 Now, I'm learning Spring6!!!!
 
-<!--![](https://leetcode-badge.haozibi.dev/v1cn/card/contest-ranking/elihill.svg)-->
+核心基础：Java基础→MySQL→JDBC→JavaWeb
 
-
-<!--## 🏆 Github Profile Trophy-->
-
-<!--<img src="https://github-profile-trophy.vercel.app/?username=hu245334&column=8"/>-->
-
-
-## 🧐 But I'm learning Java now!!!!
-
-核心基础：Java基础→==MySQL==→JDBC→JavaWeb
-
-微服务核心：Maven→Gradle→Spring6→SpringMVC→MyBatis→MyBatisPlus→SSM→Redis7→SpringBoot2→SpringCloud
+==微服务核心==：Maven→Gradle→Spring6→SpringMVC→MyBatis→MyBatisPlus→SSM→Redis7→SpringBoot2→SpringCloud
 
 微服务生态：Git→Docker→Elasticsearch→ZooKeeper→Nginx→SpringSecurity→ActiveMQ→RabbitMQ→RocketMQ→K8S→MySQL面试题→大厂面试题第2季→大厂面试题第3季
 
 项目实战：尚筹网→云尚办公→谷粒学苑→尚医通→硅谷课堂→尚融宝→谷粒商城(大型重磅) 
 
-**Now, My progress :** MySQL--P91
+**Now, My progress :** Spring6 , Maven and Gradle!!!  
 
 
 ![](https://raw.githubusercontent.com/younger-1/younger-1/output/github-contribution-grid-snake.svg)
