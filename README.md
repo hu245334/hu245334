@@ -85,6 +85,8 @@ Donot code the LeetCode!!!
 
 Question of the 2023/9/2 
 
+[最短路](https://www.lanqiao.cn/problems/609/learning/?page=1&first_category_id=1&sort=students_count)
+
 ## 🧐 Now, I'm learning Spring6!!!!
 
 核心基础：Java基础→MySQL→JDBC→JavaWeb
