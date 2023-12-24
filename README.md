@@ -78,6 +78,8 @@ Awesome githuber
 ## My Code : 😅
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hu245334&repo=ECT)](https://github.com/hu245334/ECT)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hu245334&repo=wheel_hub_defect)](https://github.com/hu245334/wheel_hub_defect)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hu245334&repo=spoke_detect)](https://github.com/hu245334/spoke_detect)
 
 ## ACWing and Lanqiao Cup : 🤕
 
