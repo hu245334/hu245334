@@ -83,23 +83,10 @@ Awesome githuber
 
 ## ACWing and Lanqiao Cup : 🤕
 
-Donot code the LeetCode!!!
+Code the LeetCode!!!
 
-Question of the 2023/9/2 
 
-[最短路](https://www.lanqiao.cn/problems/609/learning/?page=1&first_category_id=1&sort=students_count)
-
-## 🧐 Now, I'm learning Spring6!!!!
-
-核心基础：Java基础→MySQL→JDBC→JavaWeb
-
-==微服务核心==：Maven→Gradle→Spring6→SpringMVC→MyBatis→MyBatisPlus→SSM→Redis7→SpringBoot2→SpringCloud
-
-微服务生态：Git→Docker→Elasticsearch→ZooKeeper→Nginx→SpringSecurity→ActiveMQ→RabbitMQ→RocketMQ→K8S→MySQL面试题→大厂面试题第2季→大厂面试题第3季
-
-项目实战：尚筹网→云尚办公→谷粒学苑→尚医通→硅谷课堂→尚融宝→谷粒商城(大型重磅) 
-
-**Now, My progress :** Spring6 , Maven and Gradle!!!  
+## 🧐 Now, I'm learning Ceph!!!!
 
 
 ![](https://raw.githubusercontent.com/younger-1/younger-1/output/github-contribution-grid-snake.svg)
