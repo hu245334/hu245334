@@ -77,13 +77,19 @@ Awesome githuber
 
 ## My Code : 😅
 
+### Java
+
+### Python
+
+### 人工智能
+#### 图像去模糊
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hu245334&repo=ECT)](https://github.com/hu245334/ECT)
+#### 目标检测
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hu245334&repo=object_detect)](https://github.com/hu245334/object_detect)
+
+### C++
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hu245334&repo=wheel_hub_defect)](https://github.com/hu245334/wheel_hub_defect)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hu245334&repo=spoke_detect)](https://github.com/hu245334/spoke_detect)
-
-## ACWing and Lanqiao Cup : 🤕
-
-Code the LeetCode!!!
 
 
 ## 🧐 Now, I'm learning Ceph!!!!
