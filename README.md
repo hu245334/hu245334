@@ -82,9 +82,10 @@ Awesome githuber
 ### Python
 
 ### 人工智能
-#### 图像去模糊
+
+##### 图像去模糊
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hu245334&repo=ECT)](https://github.com/hu245334/ECT)
-#### 目标检测
+##### 目标检测
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hu245334&repo=object_detect)](https://github.com/hu245334/object_detect)
 
 ### C++
