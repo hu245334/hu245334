@@ -78,6 +78,10 @@ Awesome githuber
 ## My Code : 😅
 
 ### Java
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hu245334&repo=Blog)](https://github.com/hu245334/Blog)
+
+### 前端（Vue）
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hu245334&repo=my-resume)](https://github.com/hu245334/my-resume)
 
 ### Python
 
