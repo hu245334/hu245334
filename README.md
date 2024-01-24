@@ -74,7 +74,7 @@ Awesome githuber
 
 ![Hu's GitHub stats](https://github-readme-stats.vercel.app/api?username=hu245334)
 
-![Become Who's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hu245334&theme=dracula&bg_color=FFFFFF)
+![Become Who's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hu245334&theme=dracula&bg_color=FFFFFF&color=00FA22)
 ## My Code : 😅
 
 ### Java
