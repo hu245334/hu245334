@@ -79,9 +79,7 @@ Awesome githuber
 
 ![Hu's GitHub stats](https://github-readme-stats.vercel.app/api?username=hu245334)
 
-<div align="center"> 
-  <img src="https://activity-graph.herokuapp.com/graph?username=hu245334&theme=xcode" /> 
-</div>
+[![Become Who's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hu245334&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## My Code : 😅
 
