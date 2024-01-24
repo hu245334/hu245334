@@ -68,19 +68,13 @@ Awesome githuber
 <!--   <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="320" height="320"> -->
 <!--   <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="320" height="320">  -->
 </div>
-<h1 align="center">
-  <a href="https://sunguoqi.com/"> 
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);Welcome! I'm Become Who!&center=true&size=27"> 
-  </a> 
-</h1>
 
 
 ## My Status and stats : 😁
 
 ![Hu's GitHub stats](https://github-readme-stats.vercel.app/api?username=hu245334)
 
-[![Become Who's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hu245334&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+[![Become Who's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hu245334&theme=dracula&bg_color=000000)]
 ## My Code : 😅
 
 ### Java
