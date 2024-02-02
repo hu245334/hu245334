@@ -42,9 +42,6 @@ Awesome githuber
 - https://github.com/lambdalisue/lambdalisue
 - https://github.com/spywhere/spywhere
 -->
-
-![My stats](https://github-readme-stats.vercel.app/api?username=hu245334&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true)
-
 <div align="center">
     <a href="http://47.116.193.176/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
     <!--<a href="https://twitter.com/EliHill/"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;-->
@@ -58,10 +55,10 @@ Awesome githuber
 </div>
 
 <div align="center">
-  <img src="https://octodex.github.com/images/justicetocat.jpg" width="320" height="320"> 
-  <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="320" height="320">
-  <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="320" height="320"> 
-</div>
+<!--   <img src="https://octodex.github.com/images/justicetocat.jpg" width="320" height="320">  -->
+<!--   <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="320" height="320"> -->
+<!--   <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="320" height="320"> 
+</div> -->
 
 
 ## My Status and stats : 😁
