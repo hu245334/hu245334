@@ -56,13 +56,6 @@ Awesome githuber
     <img src="https://komarev.com/ghpvc/?username=hu245334&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
 </div>
 
- 
-<div align="center">
-    <img height="150" src="images/rock-rock-rock.gif" alt="gif with funny random cat say thank you." />
-</div>
-
-
-
 <div align="center">
   <img src="https://octodex.github.com/images/justicetocat.jpg" width="320" height="320">
 <!--   <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="320" height="320"> -->
@@ -96,6 +89,8 @@ Awesome githuber
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hu245334&repo=wheel_hub_defect)](https://github.com/hu245334/wheel_hub_defect)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hu245334&repo=spoke_detect)](https://github.com/hu245334/spoke_detect)
 
+## My Algorithm
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hu245334&repo=leetcode)](https://github.com/hu245334/leetcode)
 
 ## 🧐 Now, I'm learning Ceph!!!!
 
