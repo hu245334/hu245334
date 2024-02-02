@@ -1,5 +1,5 @@
 <h1 align="center">
-  Become Who's Blog
+  Become Who's GitHub
 </h1>
 
 <!--
