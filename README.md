@@ -89,6 +89,7 @@ Awesome githuber
 
 ## My Algorithm
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hu245334&repo=leetcode)](https://github.com/hu245334/leetcode)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hu245334&repo=ACWing)](https://github.com/hu245334/ACWing)
 
 ## 🧐 Now, I'm learning Ceph!!!!
 
